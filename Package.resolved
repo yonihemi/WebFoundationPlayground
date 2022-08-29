@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "javascriptkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftwasm/JavaScriptKit",
+      "state" : {
+        "revision" : "a129f62171bf3610633313c2db6acdca41cdb195",
+        "version" : "0.16.0"
+      }
+    },
+    {
+      "identity" : "webfoundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftwasm/WebFoundation",
+      "state" : {
+        "branch" : "main",
+        "revision" : "575221e20e62140fe6906ca5a3ccd9c2fc082ede"
+      }
+    }
+  ],
+  "version" : 2
+}
